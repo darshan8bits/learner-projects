@@ -1,2 +1,565 @@
 date,amount,category,notes
-11-10-2026,2000,Food,Ate Food
+23-03-2026,225,Food,Dinner
+13-10-2026,182,Food,Street food
+28-05-2026,40,Food,Snacks
+20-01-2026,55,Travel,Fuel share
+14-03-2026,947,Others,Sports
+23-03-2026,207,Food,Coffee and snacks
+01-02-2026,493,Others,Gift
+15-03-2026,411,Bills,Hostel expense
+17-03-2026,308,Food,Lunch at mess
+24-02-2026,516,Bills,Laundry
+22-07-2026,217,Food,Lunch at mess
+19-05-2026,95,Food,Snacks
+31-03-2026,237,Food,Coffee and snacks
+11-04-2026,348,Food,Groceries
+28-09-2026,116,Food,Groceries
+30-09-2026,886,Others,Miscellaneous
+28-08-2026,80,Food,Snacks
+15-06-2026,368,Food,Dinner
+08-10-2026,261,Food,Lunch at mess
+15-07-2026,74,Food,Coffee and snacks
+30-04-2026,115,Travel,Auto fare
+01-08-2026,418,Food,Coffee and snacks
+17-03-2026,110,Food,Groceries
+23-05-2026,242,Travel,Fuel share
+29-09-2026,1355,Bills,Laundry
+03-02-2026,1023,Shopping,Personal items
+04-04-2026,422,Food,Coffee and snacks
+19-05-2026,1824,Shopping,Online purchase
+22-03-2026,349,Food,Street food
+08-09-2026,646,Travel,Cab ride
+10-08-2026,250,Shopping,Headphones
+12-03-2026,64,Food,Lunch at mess
+05-03-2026,91,Food,Lunch at mess
+06-01-2026,111,Food,Dinner
+26-08-2026,2341,Shopping,Clothes
+07-07-2026,841,Bills,Electricity share
+19-08-2026,590,Shopping,Clothes
+05-02-2026,232,Food,Street food
+18-02-2026,60,Bills,Internet bill
+05-09-2026,189,Food,Coffee and snacks
+18-01-2026,242,Food,Street food
+08-03-2026,230,Food,Lunch at mess
+11-05-2026,1195,Others,Sports
+04-06-2026,1312,Bills,Mobile recharge
+08-09-2026,110,Food,Street food
+24-07-2026,35,Food,Breakfast
+15-02-2026,153,Travel,Cab ride
+18-02-2026,1060,Bills,Mobile recharge
+03-04-2026,97,Others,Gift
+01-09-2026,769,Travel,Local transport
+29-06-2026,226,Food,Lunch at mess
+16-01-2026,58,Food,Groceries
+09-01-2026,161,Food,Groceries
+06-08-2026,763,Shopping,Clothes
+15-03-2026,383,Others,Movie ticket
+16-06-2026,170,Shopping,Clothes
+22-04-2026,179,Food,Coffee and snacks
+22-03-2026,104,Others,Unexpected expense
+10-05-2026,118,Food,Snacks
+07-06-2026,2193,Shopping,Headphones
+12-09-2026,109,Shopping,Notebook
+10-05-2026,73,Food,Dinner
+04-08-2026,157,Food,Street food
+02-02-2026,192,Food,Snacks
+13-04-2026,457,Travel,Fuel share
+22-09-2026,223,Food,Groceries
+07-01-2026,142,Travel,Train ticket
+22-01-2026,35,Others,Unexpected expense
+17-07-2026,1113,Others,Movie ticket
+02-08-2026,78,Food,Coffee and snacks
+04-07-2026,333,Food,Lunch at mess
+29-07-2026,216,Food,Coffee and snacks
+01-04-2026,216,Food,Snacks
+03-09-2026,472,Food,Street food
+16-09-2026,2062,Shopping,Personal items
+04-05-2026,847,Others,Unexpected expense
+07-06-2026,447,Food,Snacks
+26-02-2026,175,Food,Breakfast
+13-03-2026,126,Food,Breakfast
+13-04-2026,223,Food,Breakfast
+07-10-2026,1005,Bills,Laundry
+21-03-2026,119,Food,Street food
+16-01-2026,1698,Shopping,Personal items
+05-03-2026,82,Shopping,Online purchase
+25-02-2026,246,Travel,Auto fare
+13-05-2026,366,Food,Dinner
+30-09-2026,56,Food,Lunch at mess
+04-01-2026,158,Bills,Internet bill
+25-04-2026,177,Food,Lunch at mess
+24-04-2026,1421,Bills,Mobile recharge
+08-08-2026,649,Shopping,Clothes
+22-08-2026,89,Food,Lunch at mess
+07-08-2026,68,Bills,Laundry
+01-07-2026,42,Others,Unexpected expense
+19-04-2026,57,Food,Breakfast
+04-01-2026,192,Food,Street food
+05-04-2026,112,Food,Dinner
+11-10-2026,177,Food,Street food
+07-03-2026,151,Food,Groceries
+20-06-2026,772,Shopping,Notebook
+11-08-2026,73,Travel,Train ticket
+27-08-2026,296,Bills,Internet bill
+01-09-2026,33,Food,Dinner
+23-07-2026,98,Food,Groceries
+11-07-2026,222,Food,Coffee and snacks
+12-05-2026,406,Travel,Cab ride
+24-03-2026,671,Others,Movie ticket
+17-01-2026,39,Food,Lunch at mess
+25-07-2026,183,Food,Coffee and snacks
+25-03-2026,111,Bills,Internet bill
+12-05-2026,55,Food,Coffee and snacks
+27-08-2026,802,Travel,Local transport
+05-09-2026,82,Bills,Internet bill
+26-06-2026,751,Shopping,Headphones
+16-02-2026,103,Food,Breakfast
+14-08-2026,267,Travel,Train ticket
+08-07-2026,1107,Bills,Subscription
+28-03-2026,114,Food,Street food
+24-02-2026,95,Travel,Auto fare
+28-09-2026,70,Food,Breakfast
+11-02-2026,77,Bills,Internet bill
+19-01-2026,77,Shopping,Online purchase
+24-06-2026,32,Food,Snacks
+17-04-2026,136,Bills,Internet bill
+21-08-2026,895,Travel,Cab ride
+10-07-2026,95,Food,Dinner
+29-08-2026,774,Bills,Internet bill
+27-04-2026,1163,Shopping,Personal items
+21-04-2026,124,Bills,Laundry
+18-05-2026,573,Bills,Mobile recharge
+23-09-2026,111,Shopping,Personal items
+15-07-2026,1459,Bills,Mobile recharge
+14-01-2026,153,Food,Groceries
+06-10-2026,773,Bills,Subscription
+08-08-2026,234,Food,Lunch at mess
+19-05-2026,45,Food,Street food
+03-03-2026,191,Food,Street food
+29-08-2026,60,Food,Coffee and snacks
+25-09-2026,86,Others,Miscellaneous
+01-03-2026,331,Others,Movie ticket
+27-03-2026,84,Others,Sports
+17-02-2026,230,Food,Dinner
+08-06-2026,301,Bills,Internet bill
+04-04-2026,451,Others,Miscellaneous
+16-07-2026,135,Food,Breakfast
+03-08-2026,195,Bills,Mobile recharge
+13-09-2026,39,Food,Coffee and snacks
+01-10-2026,493,Shopping,Headphones
+07-05-2026,221,Food,Lunch at mess
+18-01-2026,42,Food,Snacks
+04-08-2026,296,Food,Breakfast
+03-01-2026,504,Travel,Local transport
+25-08-2026,148,Food,Coffee and snacks
+18-07-2026,314,Bills,Electricity share
+01-08-2026,81,Food,Coffee and snacks
+23-04-2026,124,Shopping,Headphones
+25-01-2026,126,Bills,Electricity share
+19-09-2026,31,Food,Snacks
+28-01-2026,63,Food,Coffee and snacks
+30-04-2026,135,Food,Breakfast
+24-05-2026,147,Food,Street food
+26-03-2026,123,Food,Breakfast
+06-08-2026,531,Others,Movie ticket
+07-06-2026,339,Food,Groceries
+26-04-2026,57,Others,Movie ticket
+11-09-2026,420,Shopping,Notebook
+13-01-2026,389,Food,Groceries
+03-02-2026,215,Bills,Internet bill
+26-09-2026,88,Food,Groceries
+29-05-2026,1363,Shopping,Clothes
+15-02-2026,675,Shopping,Online purchase
+13-05-2026,80,Food,Lunch at mess
+14-07-2026,87,Travel,Auto fare
+11-05-2026,200,Food,Snacks
+05-09-2026,113,Shopping,Online purchase
+27-02-2026,497,Shopping,Notebook
+21-07-2026,40,Food,Groceries
+02-05-2026,142,Food,Lunch at mess
+23-07-2026,496,Shopping,Headphones
+30-07-2026,388,Food,Lunch at mess
+09-04-2026,177,Food,Coffee and snacks
+29-03-2026,78,Others,Miscellaneous
+02-07-2026,230,Travel,Bus ticket
+12-10-2026,1333,Bills,Internet bill
+19-02-2026,1770,Shopping,Clothes
+27-09-2026,349,Food,Dinner
+02-03-2026,201,Food,Street food
+02-07-2026,168,Food,Street food
+05-02-2026,45,Travel,Local transport
+25-01-2026,112,Bills,Laundry
+31-03-2026,532,Travel,Local transport
+10-10-2026,232,Bills,Laundry
+08-01-2026,475,Shopping,Clothes
+29-09-2026,389,Others,Movie ticket
+05-01-2026,195,Food,Street food
+02-02-2026,34,Food,Snacks
+16-04-2026,91,Food,Street food
+23-07-2026,749,Others,Unexpected expense
+24-06-2026,2388,Shopping,Personal items
+03-06-2026,543,Shopping,Stationery
+05-01-2026,67,Food,Lunch at mess
+01-10-2026,70,Travel,Fuel share
+26-06-2026,425,Travel,Local transport
+09-04-2026,1342,Bills,Subscription
+28-04-2026,879,Travel,Local transport
+04-06-2026,55,Others,Movie ticket
+09-03-2026,521,Bills,Hostel expense
+23-09-2026,1436,Shopping,Personal items
+17-09-2026,42,Food,Coffee and snacks
+18-09-2026,146,Others,Sports
+02-10-2026,89,Food,Breakfast
+11-05-2026,692,Travel,Cab ride
+31-08-2026,243,Travel,Train ticket
+08-01-2026,259,Others,Sports
+18-04-2026,160,Food,Lunch at mess
+09-05-2026,144,Others,Gift
+04-06-2026,462,Travel,Local transport
+06-04-2026,72,Others,Unexpected expense
+06-03-2026,234,Bills,Mobile recharge
+30-06-2026,294,Travel,Train ticket
+20-02-2026,352,Food,Dinner
+21-05-2026,388,Travel,Train ticket
+15-08-2026,167,Food,Lunch at mess
+28-05-2026,421,Shopping,Headphones
+24-01-2026,123,Food,Groceries
+28-06-2026,108,Food,Groceries
+25-03-2026,37,Food,Dinner
+21-03-2026,367,Food,Street food
+22-02-2026,1312,Bills,Laundry
+03-04-2026,34,Food,Dinner
+04-02-2026,161,Bills,Laundry
+06-08-2026,140,Food,Groceries
+21-06-2026,188,Food,Street food
+16-06-2026,287,Travel,Train ticket
+16-09-2026,941,Shopping,Online purchase
+05-04-2026,86,Food,Coffee and snacks
+05-08-2026,182,Food,Snacks
+15-08-2026,258,Others,Miscellaneous
+29-01-2026,87,Shopping,Headphones
+05-06-2026,154,Food,Lunch at mess
+14-06-2026,89,Food,Dinner
+07-08-2026,218,Food,Breakfast
+26-09-2026,50,Food,Groceries
+18-04-2026,97,Food,Breakfast
+07-03-2026,2462,Shopping,Headphones
+16-04-2026,193,Bills,Subscription
+05-02-2026,628,Others,Movie ticket
+10-02-2026,166,Bills,Hostel expense
+24-06-2026,883,Bills,Internet bill
+01-06-2026,67,Travel,Cab ride
+22-09-2026,121,Shopping,Online purchase
+13-02-2026,593,Bills,Hostel expense
+02-09-2026,686,Bills,Laundry
+03-10-2026,198,Food,Groceries
+29-09-2026,88,Food,Groceries
+25-06-2026,61,Food,Breakfast
+26-08-2026,431,Bills,Mobile recharge
+15-08-2026,65,Food,Groceries
+21-07-2026,349,Others,Gift
+17-08-2026,684,Shopping,Clothes
+15-06-2026,103,Others,Gift
+10-06-2026,276,Others,Sports
+12-04-2026,418,Travel,Local transport
+06-02-2026,218,Food,Dinner
+03-10-2026,197,Food,Dinner
+05-10-2026,164,Travel,Auto fare
+18-09-2026,1861,Shopping,Online purchase
+11-01-2026,512,Others,Miscellaneous
+07-07-2026,58,Food,Dinner
+06-05-2026,114,Food,Coffee and snacks
+08-04-2026,46,Food,Coffee and snacks
+03-07-2026,170,Food,Coffee and snacks
+15-04-2026,193,Shopping,Personal items
+31-07-2026,97,Food,Street food
+27-09-2026,121,Food,Lunch at mess
+16-03-2026,100,Food,Coffee and snacks
+01-09-2026,207,Travel,Bus ticket
+27-01-2026,111,Food,Street food
+27-07-2026,35,Others,Miscellaneous
+04-06-2026,64,Others,Medicine
+08-02-2026,269,Travel,Cab ride
+16-04-2026,1984,Shopping,Stationery
+09-10-2026,552,Travel,Train ticket
+06-09-2026,367,Food,Breakfast
+09-07-2026,270,Food,Lunch at mess
+05-01-2026,61,Shopping,Personal items
+25-04-2026,34,Travel,Train ticket
+14-05-2026,42,Food,Lunch at mess
+15-03-2026,629,Travel,Auto fare
+25-03-2026,82,Food,Groceries
+27-05-2026,291,Travel,Train ticket
+05-07-2026,518,Shopping,Notebook
+27-05-2026,1482,Bills,Internet bill
+04-09-2026,88,Travel,Train ticket
+15-07-2026,209,Travel,Bus ticket
+01-09-2026,876,Travel,Local transport
+09-08-2026,87,Food,Breakfast
+10-03-2026,946,Shopping,Stationery
+09-06-2026,128,Food,Groceries
+29-09-2026,70,Others,Medicine
+30-07-2026,507,Others,Unexpected expense
+15-06-2026,220,Travel,Fuel share
+17-04-2026,215,Bills,Hostel expense
+12-01-2026,188,Food,Dinner
+02-02-2026,178,Food,Snacks
+18-02-2026,83,Food,Lunch at mess
+23-02-2026,771,Travel,Bus ticket
+25-08-2026,161,Food,Snacks
+14-02-2026,70,Bills,Laundry
+22-04-2026,181,Travel,Cab ride
+31-01-2026,234,Others,Medicine
+07-02-2026,439,Bills,Hostel expense
+02-08-2026,194,Bills,Internet bill
+13-05-2026,314,Bills,Mobile recharge
+20-07-2026,1475,Bills,Laundry
+10-05-2026,60,Food,Coffee and snacks
+11-08-2026,68,Food,Dinner
+10-04-2026,223,Food,Snacks
+21-01-2026,194,Food,Coffee and snacks
+20-03-2026,105,Food,Groceries
+16-06-2026,170,Food,Lunch at mess
+03-03-2026,126,Travel,Bus ticket
+03-06-2026,244,Travel,Train ticket
+02-05-2026,289,Food,Snacks
+23-05-2026,216,Food,Breakfast
+25-08-2026,168,Food,Snacks
+15-05-2026,589,Bills,Subscription
+02-07-2026,806,Others,Unexpected expense
+03-07-2026,159,Bills,Laundry
+24-07-2026,80,Travel,Train ticket
+28-02-2026,1770,Shopping,Online purchase
+24-09-2026,2165,Shopping,Notebook
+03-09-2026,1319,Bills,Subscription
+24-05-2026,117,Food,Dinner
+29-03-2026,869,Shopping,Headphones
+22-01-2026,359,Travel,Auto fare
+10-07-2026,360,Travel,Fuel share
+09-02-2026,491,Shopping,Stationery
+18-01-2026,60,Food,Groceries
+29-05-2026,224,Food,Coffee and snacks
+13-03-2026,132,Bills,Mobile recharge
+14-08-2026,456,Shopping,Stationery
+28-06-2026,190,Food,Breakfast
+08-10-2026,117,Food,Dinner
+21-04-2026,51,Shopping,Stationery
+11-03-2026,39,Travel,Auto fare
+02-10-2026,71,Food,Lunch at mess
+02-09-2026,127,Travel,Auto fare
+17-02-2026,1107,Others,Miscellaneous
+14-08-2026,300,Others,Unexpected expense
+06-04-2026,59,Food,Groceries
+04-04-2026,491,Food,Lunch at mess
+16-02-2026,715,Travel,Bus ticket
+08-04-2026,52,Food,Snacks
+25-05-2026,88,Food,Street food
+19-06-2026,903,Others,Miscellaneous
+23-01-2026,114,Food,Coffee and snacks
+20-09-2026,29,Travel,Train ticket
+13-07-2026,387,Shopping,Clothes
+08-05-2026,153,Food,Coffee and snacks
+01-05-2026,1109,Others,Sports
+10-04-2026,326,Shopping,Online purchase
+22-03-2026,88,Bills,Subscription
+30-01-2026,716,Others,Gift
+01-05-2026,290,Travel,Cab ride
+22-01-2026,140,Travel,Bus ticket
+18-03-2026,248,Food,Groceries
+18-06-2026,441,Travel,Train ticket
+18-08-2026,429,Others,Miscellaneous
+30-08-2026,106,Food,Dinner
+08-01-2026,34,Food,Dinner
+20-07-2026,177,Travel,Auto fare
+19-02-2026,220,Travel,Bus ticket
+17-08-2026,223,Travel,Cab ride
+08-06-2026,992,Shopping,Notebook
+15-06-2026,302,Shopping,Online purchase
+22-07-2026,98,Bills,Laundry
+10-08-2026,183,Food,Coffee and snacks
+22-01-2026,740,Bills,Internet bill
+17-04-2026,446,Travel,Local transport
+23-09-2026,425,Others,Unexpected expense
+03-04-2026,365,Travel,Fuel share
+30-09-2026,209,Food,Lunch at mess
+09-02-2026,87,Bills,Laundry
+09-05-2026,481,Others,Unexpected expense
+26-05-2026,536,Bills,Mobile recharge
+02-06-2026,314,Food,Lunch at mess
+10-04-2026,1539,Bills,Mobile recharge
+14-01-2026,141,Food,Street food
+25-01-2026,57,Food,Breakfast
+08-09-2026,208,Food,Lunch at mess
+19-03-2026,375,Bills,Mobile recharge
+15-03-2026,121,Food,Snacks
+24-06-2026,235,Travel,Bus ticket
+17-09-2026,84,Food,Breakfast
+24-05-2026,35,Food,Coffee and snacks
+04-09-2026,47,Food,Lunch at mess
+09-07-2026,234,Food,Coffee and snacks
+27-05-2026,877,Others,Movie ticket
+03-07-2026,88,Food,Coffee and snacks
+15-04-2026,42,Food,Lunch at mess
+17-02-2026,78,Food,Breakfast
+22-02-2026,2202,Shopping,Clothes
+10-09-2026,198,Others,Movie ticket
+18-08-2026,187,Bills,Internet bill
+15-01-2026,517,Travel,Local transport
+10-02-2026,176,Shopping,Notebook
+18-04-2026,704,Shopping,Personal items
+09-06-2026,112,Food,Groceries
+12-02-2026,2055,Shopping,Online purchase
+22-06-2026,1103,Shopping,Stationery
+18-04-2026,449,Food,Groceries
+08-01-2026,167,Bills,Internet bill
+13-10-2026,658,Bills,Hostel expense
+06-05-2026,145,Food,Breakfast
+25-09-2026,120,Food,Snacks
+07-06-2026,27,Travel,Train ticket
+28-03-2026,2042,Shopping,Personal items
+24-01-2026,154,Food,Snacks
+25-05-2026,538,Others,Gift
+10-10-2026,412,Food,Groceries
+12-07-2026,38,Food,Dinner
+11-02-2026,703,Bills,Internet bill
+28-09-2026,191,Bills,Electricity share
+13-02-2026,86,Food,Breakfast
+29-03-2026,62,Food,Coffee and snacks
+12-08-2026,247,Food,Snacks
+19-09-2026,1349,Bills,Hostel expense
+03-10-2026,158,Food,Breakfast
+07-09-2026,66,Shopping,Personal items
+07-01-2026,2048,Shopping,Stationery
+18-03-2026,156,Shopping,Personal items
+09-01-2026,247,Food,Street food
+30-07-2026,75,Travel,Cab ride
+20-01-2026,704,Bills,Subscription
+23-04-2026,238,Food,Breakfast
+12-02-2026,239,Food,Groceries
+28-02-2026,22,Travel,Fuel share
+01-07-2026,59,Bills,Mobile recharge
+20-07-2026,49,Food,Groceries
+21-06-2026,353,Travel,Fuel share
+03-06-2026,236,Food,Snacks
+17-08-2026,177,Bills,Electricity share
+27-07-2026,298,Food,Groceries
+03-05-2026,836,Travel,Bus ticket
+07-08-2026,192,Travel,Fuel share
+25-01-2026,127,Bills,Hostel expense
+13-10-2026,263,Others,Movie ticket
+25-05-2026,35,Food,Snacks
+31-08-2026,70,Food,Breakfast
+06-04-2026,302,Shopping,Stationery
+23-08-2026,463,Food,Dinner
+09-05-2026,297,Food,Breakfast
+15-04-2026,473,Food,Lunch at mess
+23-08-2026,73,Food,Snacks
+07-09-2026,1539,Bills,Hostel expense
+16-04-2026,586,Travel,Bus ticket
+12-07-2026,392,Bills,Laundry
+08-10-2026,231,Food,Snacks
+08-04-2026,83,Bills,Subscription
+14-01-2026,270,Shopping,Headphones
+05-10-2026,85,Bills,Internet bill
+09-07-2026,250,Food,Dinner
+27-01-2026,111,Food,Lunch at mess
+26-07-2026,571,Bills,Internet bill
+10-03-2026,170,Shopping,Headphones
+25-09-2026,118,Bills,Electricity share
+19-01-2026,63,Bills,Laundry
+02-07-2026,367,Food,Groceries
+08-03-2026,786,Shopping,Personal items
+23-02-2026,208,Food,Street food
+11-03-2026,69,Food,Coffee and snacks
+05-01-2026,41,Food,Breakfast
+26-09-2026,433,Food,Coffee and snacks
+28-03-2026,78,Food,Coffee and snacks
+06-09-2026,955,Shopping,Clothes
+01-10-2026,262,Food,Street food
+15-09-2026,156,Food,Street food
+26-06-2026,189,Travel,Auto fare
+06-07-2026,565,Shopping,Notebook
+05-08-2026,1587,Shopping,Stationery
+23-01-2026,83,Others,Unexpected expense
+24-08-2026,119,Food,Lunch at mess
+17-06-2026,73,Food,Groceries
+12-02-2026,463,Travel,Fuel share
+24-03-2026,123,Shopping,Personal items
+30-03-2026,67,Food,Dinner
+04-03-2026,120,Food,Lunch at mess
+21-01-2026,81,Food,Snacks
+15-07-2026,38,Food,Groceries
+26-03-2026,326,Shopping,Online purchase
+06-02-2026,663,Shopping,Online purchase
+09-05-2026,250,Food,Coffee and snacks
+05-09-2026,84,Bills,Electricity share
+26-01-2026,100,Food,Dinner
+30-05-2026,462,Others,Medicine
+18-06-2026,906,Bills,Subscription
+01-10-2026,387,Travel,Auto fare
+13-06-2026,188,Travel,Local transport
+14-09-2026,392,Travel,Auto fare
+02-08-2026,142,Food,Coffee and snacks
+02-09-2026,85,Travel,Train ticket
+24-03-2026,89,Travel,Local transport
+08-06-2026,160,Food,Coffee and snacks
+16-02-2026,450,Bills,Laundry
+09-01-2026,210,Travel,Train ticket
+30-05-2026,60,Food,Groceries
+14-09-2026,73,Food,Dinner
+22-07-2026,495,Food,Dinner
+21-09-2026,794,Others,Miscellaneous
+13-08-2026,206,Food,Street food
+24-07-2026,249,Travel,Bus ticket
+01-01-2026,340,Shopping,Clothes
+03-10-2026,239,Food,Lunch at mess
+09-03-2026,60,Food,Lunch at mess
+05-06-2026,91,Food,Groceries
+13-06-2026,223,Food,Groceries
+20-07-2026,218,Food,Coffee and snacks
+11-10-2026,315,Others,Gift
+22-04-2026,404,Bills,Mobile recharge
+08-07-2026,363,Others,Unexpected expense
+30-03-2026,214,Food,Breakfast
+17-06-2026,90,Travel,Auto fare
+16-09-2026,113,Food,Dinner
+19-08-2026,395,Food,Coffee and snacks
+23-03-2026,72,Food,Coffee and snacks
+14-03-2026,1663,Bills,Laundry
+20-06-2026,105,Travel,Local transport
+09-06-2026,131,Food,Lunch at mess
+27-06-2026,703,Shopping,Notebook
+19-02-2026,241,Shopping,Headphones
+27-07-2026,226,Food,Dinner
+16-07-2026,580,Bills,Laundry
+07-02-2026,100,Food,Snacks
+11-07-2026,39,Food,Lunch at mess
+26-02-2026,106,Food,Dinner
+13-10-2026,743,Others,Movie ticket
+19-03-2026,106,Food,Street food
+13-01-2026,197,Food,Groceries
+31-01-2026,225,Food,Dinner
+20-06-2026,199,Food,Street food
+31-03-2026,625,Shopping,Clothes
+30-06-2026,161,Food,Snacks
+11-03-2026,539,Bills,Mobile recharge
+13-04-2026,47,Travel,Fuel share
+25-06-2026,571,Travel,Fuel share
+01-01-2026,65,Food,Lunch at mess
+09-09-2026,436,Travel,Train ticket
+02-10-2026,54,Others,Medicine
+11-01-2026,189,Food,Lunch at mess
+19-04-2026,1880,Shopping,Headphones
+28-04-2026,102,Others,Sports
+29-01-2026,39,Food,Breakfast
+16-02-2026,228,Food,Groceries
+21-01-2026,236,Others,Sports
+17-09-2026,2396,Shopping,Clothes
+30-03-2026,1205,Bills,Electricity share
+14-06-2026,219,Food,Dinner
+11-10-2026,396,Others,Movie ticket
+18-09-2026,80,Food,Street food
+06-04-2026,136,Others,Miscellaneous
+16-03-2026,76,Food,Lunch at mess
+04-07-2026,60,Food,Breakfast
+12-10-2026,1000.0,Food,Dinner
