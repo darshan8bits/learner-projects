@@ -4,7 +4,7 @@ Built a Personal Expense Analyzer using Python, Pandas, Numpy and Matplotlib (fo
    1. Clone the repo 
    2. Go to the /Personal Expense Analyzer directory, open your terminal and download the dependencies using *pip install -r requirements.txt*
    3. Delete the contents of data.csv (remove everything, keep the headers though)
-   4. Enter python main.py in your terminal window to start the application
+   4. Enter *python main.py* in your terminal window to start the application
    5. Enjoy your CLI Personal Expense Analyzer
 
 -> Features:
